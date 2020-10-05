@@ -1,9 +1,8 @@
 <h1> Semáforo </h1>
-Projeto simples para praticar HTML5, CSS3 e JavaScript - Semáforo 
-
+Alterando o estado de um semáfaro utilizando JavaScript.
 
 </p>
-<p float="left">
+<p align="center">
   
-  <img src="https://user-images.githubusercontent.com/65368831/94772102-42bfba00-038f-11eb-88c0-8bbf94c03918.gif" width="400" /> 
+  <img src="https://user-images.githubusercontent.com/65368831/95040206-5af24a80-06a9-11eb-89e5-9e8e852f434d.gif" width="400" /> 
 </p>
